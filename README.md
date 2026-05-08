@@ -1,6 +1,5 @@
 # Blazor Responsive Menu with Template
 
-**Repository Description**  
 This repository contains a Syncfusion Blazor sample that demonstrates how to customize the Blazor Menu component using templates and responsive behavior based on screen size.
 
 Syncfusion Blazor Menu component customized sample which has nested items and template-based rendering with screen size–based responsive behavior.
